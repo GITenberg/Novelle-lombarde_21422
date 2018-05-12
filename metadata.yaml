@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9915'
     url: http://www.gutenberg.org/2009/agents/9915
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21422#Novelle-lombarde
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2007-05-12'
 gutenberg_type: Text
