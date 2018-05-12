@@ -1,0 +1,25 @@
+_repo: Novelle-lombarde_21422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Avancini, Avancinio
+    gutenberg_agent_id: '9915'
+    url: http://www.gutenberg.org/2009/agents/9915
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2007-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21422'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+title: Novelle lombarde
+url: http://www.gutenberg.org/ebooks/21422
